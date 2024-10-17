@@ -113,7 +113,7 @@ The relational schema for this project is defined in the SQL script file [Rescue
 
 ## Feedback and Support
 
-For any questions or support, feel free to reach out at **zainkashif1110@gmail.com**.
+For any questions or support, feel free to reach out at **zainkashif1122@gmail.com**.
 
 ## Stay Tuned
 
