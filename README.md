@@ -71,7 +71,7 @@ Here is the structure of the project:
   
 - **Software**:
   - MySQL: The database management system used to implement the project.
-  - ERD PLUS: For designing the [Entity-Relationship Diagram (ERD)]() and [Relational Schema (RS)]().
+  - ERD PLUS: For designing the [Entity-Relationship Diagram (ERD)](RESCUE(ERD).png) and [Relational Schema (RS)](RESCUE(RS).png).
   - Word Processor: For documenting the project details.
 
 ## Entities and Attributes
