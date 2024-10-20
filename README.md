@@ -71,30 +71,30 @@ Here is the structure of the project:
   
 - **Software**:
   - MySQL: The database management system used to implement the project.
-  - ERD PLUS: For designing the [Entity-Relationship Diagram (ERD)](RESCUE(ERD).png) and [Relational Schema (RS)](RESCUE(RS).png).
+  - ERD PLUS: For designing the [`Entity-Relationship Diagram (ERD)`](RESCUE(ERD).png) and [`Relational Schema (RS)`](RESCUE(RS).png).
   - Word Processor: For documenting the project details.
 
 ## Entities and Attributes
 
-Detailed information about entities and their attributes can be found in the attached [zainkashif1110.docx](zainkashif1110.docx) file.
+Detailed information about entities and their attributes can be found in the attached [`zainkashif1110.docx`](zainkashif1110.docx) file.
 
 ## Relationships
 
-The relationships between entities are outline in the [zainkashif1110.docx](zainkashif1110.docx) document. 
+The relationships between entities are outline in the [`zainkashif1110.docx`](zainkashif1110.docx) document. 
 
 ## Entity Relationship Diagram
 
-Refer to the [RESCUE(ERD).png](RESCUE(ERD).png) file for a visual representation of the Entity-Relationship Diagram.
+Refer to the [`RESCUE(ERD).png`](RESCUE(ERD).png) file for a visual representation of the Entity-Relationship Diagram.
 
 ## Relational Schema
 
-The relational schema for this project is defined in the SQL script file [RescueSQL.sql](RescueSQL.sql). For a visual representation, refer to the [RESCUE(RS).png](RESCUE(RS).png) file.
+The relational schema for this project is defined in the SQL script file [`RescueSQL.sql`](RescueSQL.sql). For a visual representation, refer to the [`RESCUE(RS).png`](RESCUE(RS).png) file.
 
 ## SQL Scripts
 
 ### Database Creation and Table Definition
 
-- Run the SQL script [RescueSQL.sql](RescueSQL.sql) to create the database schema:
+- Run the SQL script [`RescueSQL.sql`](RescueSQL.sql) to create the database schema:
 
   ```sql
   -- Create the database
@@ -113,7 +113,7 @@ The relational schema for this project is defined in the SQL script file [Rescue
 
 ## Feedback and Support
 
-For any questions or support, feel free to reach out at **zainkashif1122@gmail.com**.
+For any questions or support, feel free to reach out at **`zainkashif1122@gmail.com`**.
 
 ## Stay Tuned
 
